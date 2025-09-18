@@ -1,0 +1,18 @@
+Ubuntu environment path là gì?
+Lệnh cơ bản trong Ubuntu terminal? (cd, ls, pwd, export, echo)
+Biến môi trường PATH trong terminal dùng để làm gì?
+.bashrc trong Ubuntu dùng để làm gì?
+Anaconda trong Python là gì?
+Cách Kỳ cài 1 cái thư viện sao? import xài sao
+Ý nghĩa file requirements.txt trong python là gì?
+Tại sao phải viết hàm trong python
+Cách Import từ thư viện cài sẵn và ý nghĩa việc vậy để
+Cách import class, function trong python
+Tại sao phải viết class, function trong python và định nghĩa
+Quy tắc viết hàm, class, function trong python là gì
+09/09/2025
+Classmethod khac gi so voi function?
+Class statismethod la gi?
+Inheritance trong python
+Private attributes, public attributes trong python class
+Constructor, destructor trong python class

@@ -1,0 +1,8 @@
+name: myenv
+channels:
+  - defaults
+dependencies:
+  - python=3.11
+  - pandas
+  - numpy
+prefix: /home/ky/.conda/envs/myenv
